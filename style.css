@@ -1,0 +1,35 @@
+.{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Mono', sans-serif;
+    font-size: 18px;
+}
+body{
+    height: 100hv;
+    background-color: #5e8b7e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    width: 450px;
+    background-color: #fff;
+    padding: 70px 50px;
+    box-shadow: 0 20px 25px rgb(0, 0, 0, o.25);
+    border: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+.cel{
+width: 45%;
+}
+input {
+    width: 80%;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid #d2d2d2;
+    outline: none;
+    margin-top: 8px;
+    padding: 0 10px;
+}
